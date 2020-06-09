@@ -1,0 +1,1 @@
+{"version":3,"file":"UploadLink.d.ts","sourceRoot":"","sources":["../../../src/link/upload/UploadLink.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,UAAU,EAAE,WAAW,EAAE,cAAc,EAAE,MAAM,gBAAgB,CAAC;AAGzE,qBAAa,UAAW,SAAQ,UAAU;IAErB,OAAO,EAAE,WAAW;IADhC,SAAS,EAAE,cAAc,CAAC;gBACd,OAAO,GAAE,WAAgB;CAG7C"}
